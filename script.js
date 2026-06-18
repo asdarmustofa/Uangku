@@ -15,7 +15,7 @@ const rencanaBudget = {
 };
 
 const targetPemasukan = {
-    "Gaji Mas": 4000000, "Gaji Adek": 4300000, "Sisa Sebelumnya": 0,
+    "Gaji Mas": 40000000, "Gaji Adek": 40000000, "Sisa Sebelumnya": 0,
     "Maxim": 0, "Lainnya": 0
 };
 
