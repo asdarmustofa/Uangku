@@ -1,7 +1,7 @@
 // 1. Konfigurasi Database Supabase
 // GANTI teks di bawah ini dengan URL dan API Key dari akun Supabase milikmu
-const supabaseUrl = 'https://uezjncjapumyrkjxzslw.supabase.co';
-const supabaseKey = 'sb_publishable_gMbWszjY1XIou5Cj4wDkjg_UlGiuOd5';
+const supabaseUrl = 'https://hwwtaexlgfmcejuzkwav.supabase.co';
+const supabaseKey = 'sb_publishable_BJ2AQ1g9LW-rbc5k61EzqQ_VeLlQ9DS';
 const db = supabase.createClient(supabaseUrl, supabaseKey);
 
 // 2. VARIABEL & DATA AWAL
